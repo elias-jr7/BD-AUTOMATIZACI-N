@@ -1,0 +1,11 @@
+
+        <html xmlns:w="urn:schemas-microsoft-com:office:word">
+        <head>
+            <meta charset="UTF-8"> <!-- Asegurando la codificación correcta -->
+        </head>
+        <body>
+            <h1>Empresa Mediana</h1>
+            <p><br> &nbsp;<b>TechSolutions S.A.</b><br> &nbsp;Industria: Tecnología y Desarrollo de Software<br> &nbsp;Ubicación: Ciudad de México, México<br> &nbsp;Fundación: 2010<br> &nbsp;Cotización: Empresa privada, no cotiza en bolsa<br> &nbsp;Empleados: 350<br> &nbsp;Ingresos Anuales: 50 millones de dólares<br> &nbsp;Clientes: PYMEs y corporaciones en los sectores financiero, salud y retail<br> &nbsp;</p>
+        </body>
+        </html>
+    
