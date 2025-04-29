@@ -1,0 +1,5 @@
+Topic: Remote Access Trojans (RATs)
+URL: https://github.com/malwares/Remote-Access-Trojan
+Description: Remote Access Trojans (RATs) are malicious software that allow unauthorized access to a user's computer. They can be used to control the system remotely, steal sensitive information, and perform various malicious activities without the user's consent. RATs often disguise themselves as legitimate software, making them difficult to detect. This repository contains various examples of RATs, including their source code and functionalities, which can be used for educational and research purposes. Notable examples include Blackshade, NJRAT, and FBI-RAT, each with unique features and capabilities.
+Malware Codes:
+- Visual Basic .NET
