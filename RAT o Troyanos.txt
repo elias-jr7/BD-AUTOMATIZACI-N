@@ -1,0 +1,3 @@
+Topic: RAT o Troyanos
+URL: https://github.com/indetectables-net/faqs/blob/master/malware.md#rat-o-troyanos
+Description: Los troyanos, o RAT (Remote Access Trojans), son uno de los tipos de malware más peligrosos. Se presentan como software útil para engañar al usuario, pero una vez que se instalan, permiten a los atacantes acceder de forma no autorizada al sistema infectado. Desde allí, pueden robar información sensible, como datos financieros, o instalar otras amenazas. Su capacidad para ocultarse y su funcionalidad maliciosa los convierte en una herramienta preferida para los cibercriminales.
