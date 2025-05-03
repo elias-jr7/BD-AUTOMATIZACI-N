@@ -1,7 +1,0 @@
-Topic: A2:2017-Broken Authentication
-URL: https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication.html
-Description: Broken authentication is a significant security vulnerability that allows attackers to exploit weaknesses in session management and user authentication processes. Attackers can gain unauthorized access to user accounts through various methods, including credential stuffing, brute force attacks, and exploiting unexpired session tokens. The prevalence of this vulnerability is widespread due to poor design and implementation of identity and access controls. Organizations must implement robust authentication mechanisms to mitigate these risks and protect sensitive information from unauthorized access.
-Malware Codes:
-- Credential stuffing
-- Brute force attack
-- Session fixation
