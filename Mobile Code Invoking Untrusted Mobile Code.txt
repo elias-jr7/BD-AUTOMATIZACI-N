@@ -1,6 +1,0 @@
-Topic: Mobile Code Invoking Untrusted Mobile Code
-URL: https://owasp.org/www-community/attacks/Mobile_code_invoking_untrusted_mobile_code
-Description: This attack involves manipulating mobile code to execute malicious operations on the client side. By using techniques like man-in-the-middle, a malicious user can modify the original mobile code, leading to arbitrary operations executed under the client's credentials. This can occur through untrustworthy websites or injection attacks, affecting applications written in Java or C++. The attack demonstrates the need for integrity mechanisms to ensure mobile code has not been altered.
-Malware Codes:
-- URLClassLoader
-- Class.forName
