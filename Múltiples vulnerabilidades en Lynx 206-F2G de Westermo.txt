@@ -1,6 +1,0 @@
-Topic: Múltiples vulnerabilidades en Lynx 206-F2G de Westermo
-URL: https://www.incibe.es/incibe-cert/alerta-temprana/avisos-sci/multiples-vulnerabilidades-en-lynx-206-f2g-de-westermo
-Description: Aarón Flecha Menéndez, Iván Alonso Álvarez y Víctor Bello Cuevas han reportado 8 vulnerabilidades en el modelo Lynx 206-F2G1, versión de firmware 4.24. De estas, 2 son de severidad alta y 6 de severidad media. La explotación de estas vulnerabilidades podría permitir a un atacante acceder a la aplicación web, inyectar código arbitrario, ejecutar código malicioso, obtener información sensible o ejecutar una petición maliciosa. Se han asignado los identificadores CVE-2023-45735 y CVE-2023-38579 a las vulnerabilidades de alta severidad.
-Malware Codes:
-- CVE-2023-45735
-- CVE-2023-38579
