@@ -1,0 +1,10 @@
+Topic: Múltiples vulnerabilidades en WebAccess de Advantech
+URL: https://www.incibe.es/incibe-cert/alerta-temprana/avisos-sci/multiples-vulnerabilidades-webaccess-advantech-5
+Description: Se han publicado múltiples vulnerabilidades en SCADA WebAccess del tipo salto entre directorios, desbordamiento de búfer, lectura fuera de los límites, escritura fuera de límites y desreferencia de puntero no confiable, que podrían permitir la divulgación de información confidencial, el borrado de archivos y la ejecución de código remoto. Las vulnerabilidades incluyen la falta de validación en las entradas del usuario, lo que puede llevar a la ejecución de código remoto y la revelación de información sensible.
+Malware Codes:
+- CVE-2019-10985
+- CVE-2019-10991
+- CVE-2019-10989
+- CVE-2019-10983
+- CVE-2019-10987
+- CVE-2019-10993
