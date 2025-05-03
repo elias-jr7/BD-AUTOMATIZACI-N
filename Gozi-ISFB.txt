@@ -1,3 +1,0 @@
-Topic: Gozi-ISFB
-URL: https://github.com/m0n0ph1/Malware-Collection/tree/master/Gozi-ISFB
-Description: Gozi-ISFB is a banking Trojan that targets online banking credentials. It is designed to steal sensitive information by injecting malicious code into web browsers. Gozi-ISFB can capture keystrokes and manipulate web pages to trick users into providing their personal information. This malware is particularly dangerous as it can lead to significant financial losses for victims.
