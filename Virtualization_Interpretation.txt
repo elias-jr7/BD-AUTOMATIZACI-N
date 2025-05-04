@@ -1,3 +1,0 @@
-Topic: Virtualization/Interpretation
-URL: https://github.com/ericyoc/obfuscation_techniques_poc
-Description: Virtualization or interpretation converts code into bytecode for execution on a custom virtual machine or interpreter. This technique complicates static analysis and debugging, making it harder for attackers to reverse engineer the code. It is particularly useful for protecting proprietary algorithms and ensuring that the code remains secure from unauthorized access.
