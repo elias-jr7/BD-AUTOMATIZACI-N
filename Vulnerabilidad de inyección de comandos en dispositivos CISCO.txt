@@ -1,5 +1,0 @@
-Topic: Vulnerabilidad de inyección de comandos en dispositivos CISCO
-URL: https://www.incibe.es/empresas/avisos/vulnerabilidad-inyeccion-comandos-dispositivos-cisco
-Description: Cisco ha publicado una vulnerabilidad de severidad alta de tipo inyección de comandos que afecta a múltiples dispositivos con software Cisco IOS XE universal y IOS XE SD-WAN independiente. Esta vulnerabilidad se debe a una insuficiente validación de entradas por parte de la CLI del sistema, lo que permite a un ciberdelincuente autenticarse en un dispositivo afectado y enviar una entrada falsa a la CLI del sistema. Una explotación exitosa podría permitir a un atacante ejecutar comandos en el sistema operativo subyacente con privilegios de administrador (root).
-Malware Codes:
-- CISCO-2021-001
