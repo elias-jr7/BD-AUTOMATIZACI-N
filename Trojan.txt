@@ -1,6 +1,0 @@
-Topic: Trojan
-URL: https://github.com/trojan-gfw/trojan
-Description: Trojan is an unidentifiable mechanism designed to help users bypass the Great Firewall (GFW) of China. It employs multiple protocols over TLS to evade both active and passive detection methods, as well as to circumvent Internet Service Provider (ISP) Quality of Service (QoS) limitations. The concept behind Trojan is to imitate common services so closely that it behaves identically, allowing users to access restricted content without being identified. This approach is particularly useful for users in regions with heavy internet censorship.
-Malware Codes:
-- T1071.001
-- T1071.002
