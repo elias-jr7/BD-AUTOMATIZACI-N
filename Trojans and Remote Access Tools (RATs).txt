@@ -1,3 +1,0 @@
-Topic: Trojans and Remote Access Tools (RATs)
-URL: https://github.com/threatland/TL-TROJAN
-Description: Trojans are malicious programs that deceive users into downloading them by masquerading as legitimate software. They can provide attackers with control over the infected machine, allowing for activities such as spying, data theft, and system damage. RATs, a specific type of Trojan, enable remote administrative access, facilitating actions like keylogging, screen capturing, and unauthorized surveillance. This repository contains various source codes for RATs and Stealers, showcasing the techniques used in these types of malware.
