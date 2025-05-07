@@ -1,0 +1,3 @@
+Topic: Gozi Trojan
+URL: https://www.incibe.es/incibe-cert/publicaciones/bitacora-de-seguridad/detenido-uno-los-responsables-del-troyano-gozi
+Description: Mihai lonut Paunescu, one of the alleged creators and distributors of the Gozi Trojan malware, was arrested at El Dorado airport in Bogotá. He is accused of crimes related to illicit association for committing computer intrusion, bank fraud, and electronic fraud. He will soon be extradited to the United States. The Gozi Trojan has been known to affect over a million users in the United States and Europe, making it a significant threat in the realm of cybercrime.
