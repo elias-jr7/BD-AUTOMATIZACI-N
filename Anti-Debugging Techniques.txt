@@ -1,0 +1,7 @@
+Topic: Anti-Debugging Techniques
+URL: https://github.com/ayoubfaouzi/al-khaser#anti-debugging-attacks
+Description: Anti-debugging techniques are methods used by malware to detect if it is being analyzed or debugged. These techniques can include checking for the presence of debuggers, using specific API calls to determine if the process is being debugged, and manipulating the process environment to hide its presence from debugging tools. Common methods include IsDebuggerPresent, CheckRemoteDebuggerPresent, and various checks on the Process Environment Block (PEB).
+Malware Codes:
+- IsDebuggerPresent
+- CheckRemoteDebuggerPresent
+- Process Environment Block (BeingDebugged)
