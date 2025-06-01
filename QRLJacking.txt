@@ -1,0 +1,5 @@
+Topic: QRLJacking
+URL: https://owasp.org/www-community/attacks/Qrljacking
+Description: QRLJacking, or Quick Response Code Login Jacking, is a social engineering attack that exploits the 'Login with QR code' feature, allowing attackers to hijack user sessions. The attack involves convincing victims to scan a malicious QR code, leading to unauthorized access to their accounts. This method can result in account hijacking, information disclosure, and manipulation of callback data. Attackers can easily implement this attack by cloning QR codes and creating phishing websites, making it a significant threat to users relying on QR code authentication.
+Malware Codes:
+- QR Code Cloning Script
