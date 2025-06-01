@@ -1,0 +1,5 @@
+Topic: Trojans
+URL: https://github.com/vxunderground/MalwareSourceCode
+Description: Trojans are a type of malware that disguise themselves as legitimate software to trick users into installing them. Once installed, they can perform various malicious actions such as stealing data, creating backdoors, or downloading additional malware. This repository contains a collection of malware source code, including various Trojan implementations across different platforms and programming languages, showcasing techniques used by attackers to exploit vulnerabilities and gain unauthorized access to systems.
+Malware Codes:
+- Python
