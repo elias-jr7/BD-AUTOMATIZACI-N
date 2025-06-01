@@ -1,0 +1,6 @@
+Topic: Man-in-the-browser attack
+URL: https://owasp.org/www-community/attacks/Man-in-the-browser_attack
+Description: The Man-in-the-Browser attack is a sophisticated form of the Man-in-the-Middle attack, where a Trojan horse is used to intercept and manipulate calls between a browser and its security mechanisms. This attack primarily targets financial transactions in Internet Banking systems, allowing attackers to modify transaction details without the user's knowledge. The Trojan operates by installing itself as a browser extension, enabling it to monitor and alter data as it flows between the user and the bank's website, all while presenting the user with a seemingly normal interface. This makes it difficult for victims to detect the attack, even when secure connections like SSL are in use. Key techniques include API hooking, browser helper objects, and malicious JavaScript.
+Malware Codes:
+- API-Hooking
+- DOM Manipulation
