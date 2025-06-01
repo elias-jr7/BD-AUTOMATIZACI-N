@@ -1,0 +1,9 @@
+Topic: Embedding Null Code
+URL: https://owasp.org/www-community/attacks/Embedding_Null_Code
+Description: The Embedding NULL Bytes/characters technique exploits applications that don’t properly handle postfix NULL terminators. This technique can be used to perform other attacks such as directory browsing, path traversal, SQL injection, execution of arbitrary code, and others. It can be found in lots of vulnerable applications and there are lots of exploits available to abuse systems. This technique includes several variations to represent the postfix NULL terminator: `PATH%00`, `PATH[0x00]`, `PATH[alternate representation of NULL character]`, `<script></script>%00`. Examples include manipulating a URL in a PHP script to access arbitrary files and exploiting buffer overflow in ActiveX components to allow remote code execution.
+Malware Codes:
+- CVE-2004-0629
+- PATH%00
+- PATH[0x00]
+- http://vuln.example.com/phpscript.php?whatever=../../../etc/passwd%00
+- GET /some_dir/file.pdf.pdf%00[long string] HTTP/1.1
