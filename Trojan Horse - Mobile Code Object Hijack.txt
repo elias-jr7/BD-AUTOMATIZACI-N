@@ -1,0 +1,6 @@
+Topic: Trojan Horse - Mobile Code Object Hijack
+URL: https://owasp.org/www-community/attacks/Mobile_code_object_hijack
+Description: The Mobile Code Object Hijack attack exploits the clone() method in Java applications to create objects without constructors. By extending a class that implements the cloneable() method, an attacker can create malicious objects that manipulate the state and behavior of the original objects. This technique allows the attacker to substitute the original object with a malicious one, leading to unauthorized actions within the application. The risk is significant as it can lead to severe security breaches if exploited effectively.
+Malware Codes:
+- Cloneable
+- Clone() method
