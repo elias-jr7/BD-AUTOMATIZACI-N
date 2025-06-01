@@ -1,0 +1,6 @@
+Topic: Trojan Horse
+URL: https://owasp.org/www-community/attacks/Trojan_Horse
+Description: A Trojan Horse is a program that uses malicious code masqueraded as a trusted application. The malicious code can be injected on benign applications, masqueraded in e-mail links, or sometimes hidden in JavaScript pages to make furtive attacks against vulnerable internet browsers. There are several types of Trojan Horses, including Remote Access Trojans (RATs), Data Sending Trojans, Destructive Trojans, Proxy Trojans, FTP Trojans, Security Software Disabler Trojans, and Denial-of-Service attack Trojans. Each type has its own method of operation and impact on the victim's system, often leading to severe data loss or unauthorized access to sensitive information.
+Malware Codes:
+- iframe injection
+- JavaScript Trojan example
