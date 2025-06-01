@@ -1,0 +1,3 @@
+Topic: How to Detect Trojans in Your Organization
+URL: https://www.imperva.com/learn/application-security/trojans/#how-to-detect-trojans-in-your-organization
+Description: Detection methods for trojans include using endpoint protection platforms, web application firewalls, and threat hunting practices. Security teams can monitor user behavior, analyze network traffic, and utilize advanced analytics to identify potential trojan infections. Common symptoms reported by users can also indicate the presence of trojans.
